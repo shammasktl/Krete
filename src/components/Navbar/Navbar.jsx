@@ -17,6 +17,7 @@ const Navbar = () => {
       </div>
       <div className="cart">
       <i class='bx bxs-shopping-bag'></i>
+      <div className="dot"></div>
       </div>
     </div>
   )
