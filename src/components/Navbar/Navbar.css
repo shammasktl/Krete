@@ -1,0 +1,26 @@
+.navbar {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 2rem;
+}
+
+.links ul {
+    list-style: none;
+    display: flex;
+    gap: 18px;
+}
+
+.links ul li a {
+    color: #808080;
+    text-decoration: none;
+}
+
+.cart i {
+    font-size: 24px;
+    color: #808080;
+}
