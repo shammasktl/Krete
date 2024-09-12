@@ -15,9 +15,9 @@
     gap: 18px;
 }
 
-.links ul li a {
+.links ul li {
     color: #808080;
-    text-decoration: none;
+    
 }
 
 .cart i {
@@ -35,4 +35,10 @@
     width: 8px;
     border-radius: 50%;
     margin-left: 5px;
+}
+
+.active {
+    padding-bottom: 7px;
+    border-bottom: 3px solid #3d7e59;
+    color: #3d7e59;
 }
