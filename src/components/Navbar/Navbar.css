@@ -17,7 +17,7 @@
 
 .links ul li {
     color: #808080;
-    
+    cursor: pointer;
 }
 
 .cart i {
@@ -40,5 +40,5 @@
 .active {
     padding-bottom: 7px;
     border-bottom: 3px solid #3d7e59;
-    color: #3d7e59;
+    color: #3d7e59 !important;
 }
